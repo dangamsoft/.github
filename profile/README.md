@@ -16,7 +16,7 @@ Powered by the proprietary **CAFE engine** — deterministic, with **91.1% accur
 
 ### Open Source
 
-- **[saju-mcp](https://github.com/dangamsoft/saju-mcp)** — Korean Saju MCP server for Claude, ChatGPT, Cursor, and other AI agents
+- **[cafe-mcp](https://github.com/dangamsoft/cafe-mcp)** — Korean Saju MCP server for Claude, ChatGPT, Cursor, and other AI agents
 
 ### Products
 
